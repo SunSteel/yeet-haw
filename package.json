@@ -1,7 +1,7 @@
 {
-  "name": "incognito",
+  "name": "bangarang",
   "version": "1.0.0",
-  "description": "Unofficial Incognito easy deployment version with TompHTTP bare server included.",
+  "description": "Bangarang",
   "type": "module",
   "scripts": {
     "start": "node src/index.js",
@@ -17,17 +17,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amethystnetwork-dev/Incognito"
+    "url": "git+https://github.com/SunSteel/yeet-haw"
   },
   "keywords": [
-    "unoffical",
-    "ultraviolet",
-    "unblock",
-    "titaniumnetwork",
-    "bypass-filter",
-    "amethystnetwork-dev"
+    "skrillex",
+    "woo",
+    "lostboys",
+    "music",
+    "woot",
+    "cheese"
   ],
-  "author": "",
+  "author": "me",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@tomphttp/bare-server-node": "^1.2.3",
